@@ -5,6 +5,7 @@ function deleteByEmail() {
         EMAIL: 'email',
     };
 
+
     
     const message = document.getElementById(SELECTORS.MESSAGE);
     deleteByEmail();

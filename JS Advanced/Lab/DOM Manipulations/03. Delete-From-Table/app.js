@@ -7,7 +7,7 @@ function deleteByEmail() {
 
 
 
-    
+
 
     const message = document.getElementById(SELECTORS.MESSAGE);
     deleteByEmail();

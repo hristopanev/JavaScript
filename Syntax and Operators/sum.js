@@ -1,6 +1,10 @@
-    let a = 5;
-    let b = 6;
-    let c = 7;
+function solve(first, second, third) {
+    let firstStringLength = first.length;
+    let secondStringLength = second.length;
+    let thirdStringLength = third.length;
 
-    let szm = a + b + c;
-    console.log(szm);
+    console.log(firstStringLength + secondStringLength + thirdStringLength);
+    console.log(Math.floor ((firstStringLength + secondStringLength + thirdStringLength) / 3));
+}
+
+solve('chocolate', 'ice cream', 'cake');

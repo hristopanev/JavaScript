@@ -9,6 +9,7 @@ function solve() {
     dashElement.textContent = '- - -';
     let pattern = /^([A-Z][a-z]* [A-Z][a-z]*) (\+359 \d \d{3} \d{3}|\+359-\d-\d{3}-\d{3}) ([a-z0-9]+@[a-z]+\.[a-z]{2,3})$/g;
 
+
     inputArr.forEach(element => {
         let match = pattern.exec(element);
         if (match) {

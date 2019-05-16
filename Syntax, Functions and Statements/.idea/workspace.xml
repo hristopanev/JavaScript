@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9ee8fa8-77ef-4eaa-8510-ea860eeaada4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p01.StringLength.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p02.MathOperations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p03.SumOfNumbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p04.LargestNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p05.CircleArea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p06.SquereOfStars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p07.DayOfWeek.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays and Matrices/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays and Matrices/Even-Position-Element/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays and Matrices/Even-Position-Element/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays and Matrices/Even-Position-Element/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays and Matrices/Even-Position-Element/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays and Matrices/Even-Position-Element/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays and Matrices/Even-Position-Element/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays and Matrices/Replace-and-Reverse/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays and Matrices/Replace-and-Reverse/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays and Matrices/Replace-and-Reverse/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays and Matrices/Replace-and-Reverse/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays and Matrices/Replace-and-Reverse/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays and Matrices/Replace-and-Reverse/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays and Matrices/Sum-First-Last/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays and Matrices/Sum-First-Last/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays and Matrices/Sum-First-Last/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays and Matrices/Sum-First-Last/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays and Matrices/Sum-First-Last/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays and Matrices/Sum-First-Last/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Count-Occurrences-of-a-Given-Character/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Count-Occurrences-of-a-Given-Character/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Count-Occurrences-of-a-Given-Character/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Count-Occurrences-of-a-Given-Character/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Count-Occurrences-of-a-Given-Character/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Count-Occurrences-of-a-Given-Character/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Multiplication-Table/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Multiplication-Table/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Multiplication-Table/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Multiplication-Table/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Multiplication-Table/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Multiplication-Table/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Special-Words/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Special-Words/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Special-Words/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Special-Words/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Special-Words/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Special-Words/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Unique-Characters/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Unique-Characters/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Unique-Characters/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Unique-Characters/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Unique-Characters/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions and Logic Flow/Unique-Characters/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/Cards/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/Cards/images/card.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/Cards/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/Cards/images/whiteCard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/Cards/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/Cards/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/Cards/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/Cards/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/Chat-Room/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/Chat-Room/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/Chat-Room/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/Chat-Room/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/Chat-Room/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/Chat-Room/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/Encode-and-Decode-Messages/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/Encode-and-Decode-Messages/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/Encode-and-Decode-Messages/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/Encode-and-Decode-Messages/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/Encode-and-Decode-Messages/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/Encode-and-Decode-Messages/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/demo/.idea/Intro to DOM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Syntax, Functions and Statements.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/demo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/demo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/demo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/demo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/demo/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/demo/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/demo/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/demo/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/demo/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/demo/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intro to DOM/demo/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/.idea/Strings and Regular Expressions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/Extract-User-Data/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/Extract-User-Data/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/Extract-User-Data/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/Extract-User-Data/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/Extract-User-Data/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/Extract-User-Data/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/Find-ASCII-Equivalent/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/Find-ASCII-Equivalent/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/Find-ASCII-Equivalent/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/Find-ASCII-Equivalent/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/Find-ASCII-Equivalent/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/Find-ASCII-Equivalent/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/Pascal-or-Camel-Case/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/Pascal-or-Camel-Case/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/Pascal-or-Camel-Case/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/Pascal-or-Camel-Case/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/Pascal-or-Camel-Case/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings and Regular Expressions/Pascal-or-Camel-Case/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Syntax and Operators/.idea/Syntax and Operators.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Syntax and Operators/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Syntax and Operators/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Syntax and Operators/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Syntax and Operators/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Syntax and Operators/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Syntax and Operators/mathOperation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Syntax and Operators/sum.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/p01.StringLength.js" />
+        <option value="$PROJECT_DIR$/p02.MathOperations.js" />
+        <option value="$PROJECT_DIR$/p03.SumOfNumbers.js" />
+        <option value="$PROJECT_DIR$/p04.LargestNumber.js" />
+        <option value="$PROJECT_DIR$/p05.CircleArea.js" />
+        <option value="$PROJECT_DIR$/p07.DayOfWeek.js" />
+        <option value="$PROJECT_DIR$/p06.SquereOfStars.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="5" />
+    <option name="width" value="1925" />
+    <option name="height" value="1045" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Syntax, Functions and Statements" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Syntax, Functions and Statements" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.p07.DayOfWeek.js">
+    <configuration name="p03.SumOfNumbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="p03.SumOfNumbers.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="p04.LargestNumber.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="p04.LargestNumber.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="p05.CircleArea.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="p05.CircleArea.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="p06.SquereOfStars.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="p06.SquereOfStars.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="p07.DayOfWeek.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="p07.DayOfWeek.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.p07.DayOfWeek.js" />
+        <item itemvalue="Node.js.p06.SquereOfStars.js" />
+        <item itemvalue="Node.js.p05.CircleArea.js" />
+        <item itemvalue="Node.js.p04.LargestNumber.js" />
+        <item itemvalue="Node.js.p03.SumOfNumbers.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9ee8fa8-77ef-4eaa-8510-ea860eeaada4" name="Default Changelist" comment="" />
+      <created>1558010521268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558010521268</updated>
+      <workItem from="1558010523916" duration="7711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7711000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="4" width="1540" height="836" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13705921" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/p02.MathOperations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p01.StringLength.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p03.SumOfNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p04.LargestNumber.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p05.CircleArea.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p07.DayOfWeek.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p06.SquereOfStars.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

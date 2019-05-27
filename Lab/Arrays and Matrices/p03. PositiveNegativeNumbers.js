@@ -4,9 +4,9 @@ function numbers(arr) {
 
     for (let i = 0; i < arr.length; i++) {
 
-        if (arr[i] < 0){
+        if (arr[i] < 0) {
             newArr.unshift(arr[i]);
-        }else {
+        } else {
             newArr.push(arr[i]);
         }
     }
@@ -14,6 +14,8 @@ function numbers(arr) {
     for (let newArrElement of newArr) {
         console.log(newArrElement);
     }
+
+
 
 }
 

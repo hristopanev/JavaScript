@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c3485f1-2982-489f-83d6-4099f8fb07af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exam Preparation - January 2019/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam Preparation II - May 2019/.idea/Exam Preparation II - May 2019.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam Preparation II - May 2019/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam Preparation II - May 2019/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam Preparation II - May 2019/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam Preparation II - May 2019/03. Warehouse Machine_Ресурси/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam Preparation II - May 2019/03. Warehouse Machine_Ресурси/scripts/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam Preparation II - May 2019/03. Warehouse Machine_Ресурси/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam Preparation II - May 2019/p01.CoffeeMachine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam Preparation II - May 2019/p02.ATMMachine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/JS Essentials - Exam Preparation - May 2019.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p01.CoursesPrices.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p02.PlasmaGiants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS Fundamentals Retake Exam - 5 Sept 2018/.idea/JS Fundamentals Retake Exam - 5 Sept 2018.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS Fundamentals Retake Exam - 5 Sept 2018/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS Fundamentals Retake Exam - 5 Sept 2018/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS Fundamentals Retake Exam - 5 Sept 2018/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS Fundamentals Retake Exam - 5 Sept 2018/p01.Kompot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Januar/Strings and Regular Expressions/.idea/Strings and Regular Expressions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam Preparation - January 2019/.idea/Exam Preparation - January 2019.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Januar/Strings and Regular Expressions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam Preparation - January 2019/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Januar/Strings and Regular Expressions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Januar/Strings and Regular Expressions/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam Preparation - January 2019/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Januar/Strings and Regular Expressions/Split-String-Equally/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Januar/Strings and Regular Expressions/Split-String-Equally/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JS Januar/Strings and Regular Expressions/Split-String-Equally/template.html" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/p03.FaceControl/scripts/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="59" column="41" lean-forward="true" selection-start-line="59" selection-start-column="41" selection-end-line="59" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p03.FaceControl/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/p01.CoursesPrices.js" />
+        <option value="$PROJECT_DIR$/p02.PlasmaGiants.js" />
+        <option value="$PROJECT_DIR$/p03.FaceControl/index.html" />
+        <option value="$PROJECT_DIR$/p03.FaceControl/scripts/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1927" />
+    <option name="height" value="1045" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.p02.PlasmaGiants.js">
+    <configuration name="p01.CoursesPrices.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="p01.CoursesPrices.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="p02.PlasmaGiants.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="p02.PlasmaGiants.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.p02.PlasmaGiants.js" />
+        <item itemvalue="Node.js.p01.CoursesPrices.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c3485f1-2982-489f-83d6-4099f8fb07af" name="Default Changelist" comment="" />
+      <created>1559558448682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559558448682</updated>
+      <workItem from="1559558449966" duration="11237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11237000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="0" width="1541" height="836" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14960106" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32386363" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914772" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/p01.CoursesPrices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p02.PlasmaGiants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="6449" column="7" lean-forward="true" selection-start-line="6449" selection-start-column="7" selection-end-line="6449" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p03.FaceControl/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.webworker.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="2178" column="13" selection-start-line="2178" selection-start-column="13" selection-end-line="2178" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p03.FaceControl/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="59" column="41" lean-forward="true" selection-start-line="59" selection-start-column="41" selection-end-line="59" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

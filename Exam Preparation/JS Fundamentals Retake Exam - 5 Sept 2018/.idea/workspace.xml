@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a751d47-979b-41c8-8bd0-8018f3a51261" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/p02.Race.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p04.F1Championship.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p04.witObj.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,11 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/p04.F1Championship.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            <state relative-caret-position="242">
+              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/p04.witObj.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -43,13 +52,14 @@
         <option value="$PROJECT_DIR$/p01.Kompot.js" />
         <option value="$PROJECT_DIR$/p02.Race.js" />
         <option value="$PROJECT_DIR$/p04.F1Championship.js" />
+        <option value="$PROJECT_DIR$/p04.witObj.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="width" value="1928" />
-    <option name="height" value="1045" />
+    <option name="x" value="-8" />
+    <option name="width" value="1294" />
+    <option name="height" value="690" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -57,7 +67,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -69,6 +78,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -91,7 +101,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.p04.F1Championship.js">
+  <component name="RunManager" selected="Node.js.p04.witObj.js">
     <configuration name="p01.Kompot.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="p01.Kompot.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -101,8 +111,12 @@
     <configuration name="p04.F1Championship.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="p04.F1Championship.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="p04.witObj.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="p04.witObj.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.p04.witObj.js" />
         <item itemvalue="Node.js.p04.F1Championship.js" />
         <item itemvalue="Node.js.p02.Race.js" />
         <item itemvalue="Node.js.p01.Kompot.js" />
@@ -121,16 +135,17 @@
       <updated>1559555371500</updated>
       <workItem from="1559555372772" duration="2547000" />
       <workItem from="1559634016494" duration="6903000" />
+      <workItem from="1559641179717" duration="2517000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9450000" />
+    <option name="totallyTimeSpent" value="11967000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1542" height="836" extended-state="0" />
+    <frame x="-6" y="0" width="1035" height="552" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.113621265" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17134269" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -169,8 +184,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/p04.F1Championship.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="242">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p04.witObj.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
         </state>
       </provider>
     </entry>

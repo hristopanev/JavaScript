@@ -14,7 +14,7 @@ function solve(days) {
         totalCaffeine += 180 + 40 + 210;
     }
 
-    console.log(`${totalCaffeine} milligrams of caffeine were consumed`);
+    console.log(`${totalCaffeine} milligrams of caf feine were consumed`);
 }
 
 solve(5);

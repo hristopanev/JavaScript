@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c4237e5-987d-45f9-9689-7bbdf6459212" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/p01. Aggregates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p03.CommandProcessor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/.idea/Arrays and Matrices.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Advanced Functions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/Even-Position-Element/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/Even-Position-Element/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/Even-Position-Element/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/Even-Position-Element/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/Even-Position-Element/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/Even-Position-Element/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/Replace-and-Reverse/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/Replace-and-Reverse/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/Replace-and-Reverse/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/Replace-and-Reverse/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/Replace-and-Reverse/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/Replace-and-Reverse/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/Sum-First-Last/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/Sum-First-Last/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/Sum-First-Last/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/Sum-First-Last/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/Sum-First-Last/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Arrays and Matrices/Sum-First-Last/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/.idea/Functions and Logic Flow.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Count-Occurrences-of-a-Given-Character/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Count-Occurrences-of-a-Given-Character/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Count-Occurrences-of-a-Given-Character/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Count-Occurrences-of-a-Given-Character/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Count-Occurrences-of-a-Given-Character/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Count-Occurrences-of-a-Given-Character/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Multiplication-Table/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Multiplication-Table/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Multiplication-Table/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Multiplication-Table/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Multiplication-Table/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Multiplication-Table/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Special-Words/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Special-Words/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Special-Words/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Special-Words/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Special-Words/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Special-Words/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Unique-Characters/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Unique-Characters/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Unique-Characters/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Unique-Characters/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Unique-Characters/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Functions and Logic Flow/Unique-Characters/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/Cards/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/Cards/images/card.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/Cards/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/Cards/images/whiteCard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/Cards/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/Cards/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/Cards/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/Cards/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/Chat-Room/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/Chat-Room/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/Chat-Room/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/Chat-Room/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/Chat-Room/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/Chat-Room/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/Encode-and-Decode-Messages/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/Encode-and-Decode-Messages/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/Encode-and-Decode-Messages/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/Encode-and-Decode-Messages/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/Encode-and-Decode-Messages/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/Encode-and-Decode-Messages/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/demo/.idea/Intro to DOM.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/demo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/demo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/demo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/demo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/demo/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/demo/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/demo/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/demo/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/demo/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/demo/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Intro to DOM/demo/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/.idea/Strings and Regular Expressions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/Extract-User-Data/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/Extract-User-Data/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/Extract-User-Data/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/Extract-User-Data/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/Extract-User-Data/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/Extract-User-Data/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/Find-ASCII-Equivalent/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/Find-ASCII-Equivalent/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/Find-ASCII-Equivalent/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/Find-ASCII-Equivalent/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/Find-ASCII-Equivalent/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/Find-ASCII-Equivalent/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/Pascal-or-Camel-Case/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/Pascal-or-Camel-Case/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/Pascal-or-Camel-Case/images/wizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/Pascal-or-Camel-Case/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/Pascal-or-Camel-Case/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/Pascal-or-Camel-Case/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/Split-String-Equally/solution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/Split-String-Equally/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Strings and Regular Expressions/Split-String-Equally/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Syntax and Operators/.idea/Syntax and Operators.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Syntax and Operators/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Syntax and Operators/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Syntax and Operators/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Syntax and Operators/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Syntax and Operators/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Syntax and Operators/mathOperation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JS Essentials/JS Januar/Syntax and Operators/sum.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p01. Aggregates.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/p03.CommandProcessor.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/p01. Aggregates.js" />
+        <option value="$PROJECT_DIR$/p02.CurrencyFormat.js" />
+        <option value="$PROJECT_DIR$/p03.CommandProcessor.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="5" />
+    <option name="width" value="1900" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Advanced Functions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Advanced Functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.p03.CommandProcessor.js">
+    <configuration name="p01. Aggregates.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="p01. Aggregates.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="p02.CurrencyFormat.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="p02.CurrencyFormat.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="p03.CommandProcessor.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="p03.CommandProcessor.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.p03.CommandProcessor.js" />
+        <item itemvalue="Node.js.p02.CurrencyFormat.js" />
+        <item itemvalue="Node.js.p01. Aggregates.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c4237e5-987d-45f9-9689-7bbdf6459212" name="Default Changelist" comment="" />
+      <created>1560342589432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560342589432</updated>
+      <workItem from="1560342591608" duration="4764000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4764000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="4" width="1520" height="824" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13081591" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32658958" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/p02.CurrencyFormat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p01. Aggregates.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p03.CommandProcessor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

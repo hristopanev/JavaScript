@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac3ae820-dd32-4fe6-bea0-5e2aff7a2ec4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Unit Testing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p01. Request Validator/validateRequest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p02. EvenOrOdd/evenOrOdd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p02. EvenOrOdd/test/evenOrOdd.Test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p03. Char Lookup/charLookup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p03. Char Lookup/test/charLookup.Test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab/Unit Testing/test/simple-test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p04. MathEnforcer/mathEnforcer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p04. MathEnforcer/test/mathEnforcer.Test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Lab/Unit Testing/.idea/Unit Testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab/Unit Testing/.idea/Unit Testing.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -48,6 +40,10 @@
         <option value="$PROJECT_DIR$/p03. Char Lookup/charLookUp.js" />
         <option value="$PROJECT_DIR$/p03. Char Lookup/test/charLookUp.Test.js" />
         <option value="$PROJECT_DIR$/p03. Char Lookup/test/charLookup.Test.js" />
+        <option value="$PROJECT_DIR$/p04. MathEnforcer/MathEnforcer.js" />
+        <option value="$PROJECT_DIR$/p04. MathEnforcer/test/MathEnforcer.Test.js" />
+        <option value="$PROJECT_DIR$/demo.js" />
+        <option value="$PROJECT_DIR$/p04. MathEnforcer/test/mathEnforcer.Test.js" />
       </list>
     </option>
   </component>
@@ -109,11 +105,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.Test">
+  <component name="RunManager" selected="Node.js.demo.js">
     <configuration default="true" type="JavascriptDebugType" uri="http://JS Debug" useFirstLineBreakpoints="true">
       <method v="2" />
     </configuration>
     <configuration name="Debug" type="NodeJSConfigurationType" path-to-js-file="p01. Request Validator/validateRequest.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="demo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="demo.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="validateRequest.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="validateRequest.js" working-dir="$PROJECT_DIR$/p01. Request Validator">
@@ -136,9 +135,11 @@
       <item itemvalue="Mocha.Test" />
       <item itemvalue="Node.js.Debug" />
       <item itemvalue="Node.js.validateRequest.js" />
+      <item itemvalue="Node.js.demo.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.demo.js" />
         <item itemvalue="Node.js.Debug" />
       </list>
     </recent_temporary>
@@ -154,7 +155,7 @@
       <option name="presentableId" value="Default" />
       <updated>1561020840746</updated>
       <workItem from="1561020843555" duration="9647000" />
-      <workItem from="1561046740424" duration="2250000" />
+      <workItem from="1561046740424" duration="6255000" />
     </task>
     <servers />
   </component>
@@ -188,12 +189,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11897000" />
+    <option name="totallyTimeSpent" value="15902000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="12" width="1540" height="824" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1403859" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1403859" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -205,13 +206,33 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49933422" visible="true" weight="0.32658958" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49933422" weight="0.32658958" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5006658" side_tool="true" weight="0.32658958" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" x="0" y="0" width="334" height="624" id="Documentation" order="3" side_tool="true" weight="0.32927653" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1403859" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32658958" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39884394" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49933422" visible="true" weight="0.32658958" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5006658" side_tool="true" weight="0.32658958" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="334" height="624" id="Documentation" order="3" side_tool="true" weight="0.32927653" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -245,6 +266,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/p02. EvenOrOdd/test/evenOrOdd.Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="4" column="8" selection-start-line="4" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/p03. Char Lookup/charLookup.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -252,17 +280,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p03. Char Lookup/test/charLookup.Test.js">
+    <entry file="file://$PROJECT_DIR$/demo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p02. EvenOrOdd/test/evenOrOdd.Test.js">
+    <entry file="file://$PROJECT_DIR$/p04. MathEnforcer/mathEnforcer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="4" column="8" selection-start-line="4" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="308">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p04. MathEnforcer/test/mathEnforcer.Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="86" column="3" lean-forward="true" selection-start-line="86" selection-start-column="3" selection-end-line="86" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p03. Char Lookup/test/charLookup.Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1210">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>

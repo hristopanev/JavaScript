@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4d39eb7-fd94-4041-8919-eb6ec2306787" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Exercise/Unit Testing/p04. MathEnforcer/mathEnforcer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercise/Unit Testing/p04. MathEnforcer/test/mathEnforcer.Test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Classes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Exercise/Unit Testing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise/Unit Testing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Unit Testing/.idea/Unit Testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit Testing/.idea/Unit Testing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -116,19 +109,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561380796744</updated>
-      <workItem from="1561380799372" duration="2228000" />
+      <workItem from="1561380799372" duration="2857000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2228000" />
+    <option name="totallyTimeSpent" value="2857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="1538" height="830" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16189207" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16189207" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -136,7 +128,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295129" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295129" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

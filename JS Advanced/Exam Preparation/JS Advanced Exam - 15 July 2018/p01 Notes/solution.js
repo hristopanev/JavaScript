@@ -18,6 +18,7 @@ function addSticker() {
 
         a.addEventListener('click', ()=>{
             li.remove();
+			console.log(li);
         });
 
         let h = document.createElement('H2');

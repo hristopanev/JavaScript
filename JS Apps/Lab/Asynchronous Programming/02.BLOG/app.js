@@ -38,9 +38,7 @@ function viewPosts() {
             document.getElementById('post-body').innerHTML = `<h2>${allPosts[i].body}</h2>>`
 
             fetch(' https://blog-apps-c12bf.firebaseio.com/comments.json')
-                .then(response => {
-                    return response.json()
-                })
+                .then(handler)
                 .then(data => {
 
                     for (let key in data) {
@@ -56,6 +54,12 @@ function viewPosts() {
             return;
         }
     }
+}
+
+function handler(response){
+    if (response > 400) throw new Error();
+
+    return response.json();
 }
 
 

@@ -12,7 +12,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02. FISHER-GAME/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-623">
+              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+              <folding>
+                <element signature="n#!!block;n#deleteCatch#0;n#!!block;n#attachEvents#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -36,9 +49,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="1918" />
-    <option name="height" value="1034" />
+    <option name="x" value="-9" />
+    <option name="width" value="1919" />
+    <option name="height" value="1035" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -46,7 +59,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -54,13 +66,20 @@
               <item name="Asynchronous Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Asynchronous Programming" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Asynchronous Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Asynchronous Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="02. FISHER-GAME" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -89,17 +108,19 @@
       <option name="presentableId" value="Default" />
       <updated>1563223134927</updated>
       <workItem from="1563223137164" duration="15021000" />
+      <workItem from="1563282048272" duration="78000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15021000" />
+    <option name="totallyTimeSpent" value="15099000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="1534" height="827" extended-state="0" />
+    <frame x="-7" y="0" width="1535" height="828" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.13894455" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1388518" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -167,13 +188,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02. FISHER-GAME/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        <state relative-caret-position="-623">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
           <folding>
-            <element signature="e#47#348#0" />
             <element signature="n#!!block;n#deleteCatch#0;n#!!block;n#attachEvents#0" />
-            <element signature="n#!!block;n#f#0;n#!!block;n#attachEvents#0" />
-            <element signature="e#917#941#0" />
           </folding>
         </state>
       </provider>

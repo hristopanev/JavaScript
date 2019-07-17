@@ -12,12 +12,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02. FISHER-GAME/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-623">
-              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+            <state relative-caret-position="289">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="n#!!block;n#deleteCatch#0;n#!!block;n#attachEvents#0" />
               </folding>
@@ -49,8 +49,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="width" value="1919" />
+    <option name="x" value="-10" />
+    <option name="width" value="1920" />
     <option name="height" value="1035" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -59,6 +59,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -75,7 +76,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -109,18 +109,18 @@
       <updated>1563223134927</updated>
       <workItem from="1563223137164" duration="15021000" />
       <workItem from="1563282048272" duration="78000" />
+      <workItem from="1563392784014" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15099000" />
+    <option name="totallyTimeSpent" value="15112000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1535" height="828" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="0" width="1536" height="828" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1388518" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.13875917" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -188,8 +188,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02. FISHER-GAME/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-623">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        <state relative-caret-position="289">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="n#!!block;n#deleteCatch#0;n#!!block;n#attachEvents#0" />
           </folding>

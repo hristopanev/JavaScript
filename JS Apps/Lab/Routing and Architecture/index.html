@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo</title>
+</head>
+<body>
+    <header>
+        <h1>Hello Sammy</h1>
+        <a href="#/index.html">Home</a>
+        <a href="#/about">About</a>
+        <a href="#/contact">Contact</a>
+    </header>
+
+    <form action="#/login" method="post">
+        User: <input name="user" type="text">
+        Pass: <input name="pass" type="password">
+        <input type="submit" value="Login">
+    </form>
+
+
+    <div id="main"></div>
+
+    <script src="./node_modules/handlebars/dist/handlebars.min.js"></script>
+    <script src="./node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="./node_modules/sammy/lib/plugins/sammy.handlebars.js"></script>
+    <script src="./node_modules/sammy/lib/sammy.js"></script>
+
+    <script src="app.js"></script>
+</body>
+</html>

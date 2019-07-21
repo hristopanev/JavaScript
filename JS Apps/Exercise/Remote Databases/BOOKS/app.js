@@ -1,161 +1,110 @@
-function CRUD() {
-    const APPID = 'kid_rJMQe06Wr';
-    const APPSECRET = '6975a1ecbaae417c95f817beb116f32d';
-    const USERNAME = 'guest';
-    const PASSWORD = 'guest';
-    const GET_BASE_64 = btoa(USERNAME + ':' + PASSWORD);
-    const POST_BASE_64 = btoa(APPID + ':' + APPSECRET);
-    const GETAUTH = {"Authorization": 'Basic ' + GET_BASE_64};
-    // const POSTAUTH = {"Authorization": 'Basic ' + POST_BASE_64};
+const kenveyUserName = 'guest';
+const kenveyPassword = 'guest';
+const appKey = 'kid_rJMQe06Wr';
+const appSecret = '6975a1ecbaae417c95f817beb116f32d';
 
+const baseUrl = 'https://baas.kinvey.com/appdata/kid_rJMQe06Wr/books';
 
-    let titleInputElement = document.getElementById('title');
-    let authorInputElement = document.getElementById('author');
-    let isbnInputElement = document.getElementById('isbn');
+const elements = {
+    loadBtn: document.getElementById('loadBooks'),
+    submitBtn: document.getElementById('submitBtn'),
+    cancelBtn: document.getElementById('cancelBtn'),
+    editBtn: document.getElementById('editBtn'),
+    inputTitle: document.getElementById('title'),
+    inputAuthor: document.getElementById('author'),
+    inputISBN: document.getElementById('isbn'),
+    tBodyBooks: document.querySelector('tbody'),
+    h3Form: document.querySelector('h3')
+};
 
-    let tableBodyElement = document.querySelector('tbody');
-    tableBodyElement.innerHTML = "";
+elements.tBodyBooks.innerHTML = '';
 
-    let loadBtn = document.getElementById('loadBooks');
-    let submitBtn = document.getElementById('submit');
+elements.submitBtn.addEventListener('click', addBook);
+elements.loadBtn.addEventListener('click', loadBooks);
+elements.cancelBtn.addEventListener('click', cancelBook);
+elements.editBtn.addEventListener('click', editBook);
 
+function addBook(ev) {
+    ev.preventDefault();
 
-    loadBtn.addEventListener('click', loadBooks);
+    let title = elements.inputTitle.value;
+    let author = elements.inputAuthor.value;
+    let isbn = elements.inputISBN.value;
 
-    function loadBooks() {
-        tableBodyElement.innerHTML = "";
-        let url = `https://baas.kinvey.com/appdata/kid_rJMQe06Wr/books`;
+    if (title && author && isbn) {
+        const dataObject = {
+            title,
+            author,
+            isbn
+        };
 
-        fetch(url, {
-            headers: GETAUTH
-        })
+        const headers = {
+            method: 'POST',
+            body: JSON.stringify(dataObject),
+            credentials: 'include',
+            Authorization: 'Basic' + btoa(`${kenveyUserName}:${kenveyPassword}`),
+            headers: {
+                'Content-type': 'application/json'
+            }
+        };
+
+        fetch(baseUrl, headers)
             .then(handler)
-            .then(data =>
-                data.forEach(element => {
-                    let [id, isbn, author, title] = Object.values(element);
-                    let currentTr = createTrElement(title, author, isbn, id);
-                    tableBodyElement.appendChild(currentTr)
-                })
-            );
-
-        tableBodyElement.addEventListener('click', ev => {
-            let element = ev.target;
-            let auth = {
-                "Authorization": 'Basic ' + GET_BASE_64,
-                "Content-type": "application/json",
-            };
-            if (element.textContent === "Delete"){
-                let elementToRemove = element.parentNode.parentNode;
-                let id = elementToRemove.getAttribute('id');
-                let deleteUrl = url + '/' + id;
-
-                let body = {};
-
-                fetch(deleteUrl, {
-                    method: "DELETE",
-                    headers: auth,
-                    body: JSON.stringify(body)
-                })
-                    .then(handler)
-                    .then(response => {
-                        if (response) {
-                            elementToRemove.remove();
-                        }
-                    })
-            } else {
-                let parent = element.parentNode;
-                let id = parent.getAttribute('id');
-                let putUrl = url + '/' + id;
-
-                titleInputElement.value = parent.getElementsByTagName('td')[0].textContent;
-                authorInputElement.value = parent.getElementsByTagName('td')[1].textContent;
-                isbnInputElement.value = parent.getElementsByTagName('td')[2].textContent;
-
-                parent.getElementsByTagName('button')[0].addEventListener('click', () => {
-                    let newTitle = titleInputElement.value;
-                    let newAuthor = authorInputElement.value;
-                    let newIsbn = isbnInputElement.value;
-                    let body = {isbn: newIsbn, author: newAuthor, title: newTitle,};
-
-                    fetch(putUrl, {
-                        method: "PUT",
-                        headers: auth,
-                        body: JSON.stringify(body)
-                    })
-                        .then(handler)
-                        .then(response => {
-                            parent.getElementsByTagName('td')[0].textContent = newTitle;
-                            parent.getElementsByTagName('td')[1].textContent = newAuthor;
-                            parent.getElementsByTagName('td')[2].textContent = newIsbn;
-
-                        });
-
-                    clearInputFields();
-
-                });
-            }
-        });
-
-        function createBook() {
-            let titleFromInput = titleInputElement.value;
-            let authorFromInput = authorInputElement.value;
-            let isbnFromInput = isbnInputElement.value;
-            let postUrl = `https://baas.kinvey.com/appdata/${APPID}/books`;
-
-            if (titleFromInput && authorFromInput && isbnFromInput){
-                let body = {isbn: isbnFromInput, author: authorFromInput, title: titleFromInput};
-                let auth = {
-                    "Authorization": 'Basic ' + GET_BASE_64,
-                    "Content-type": "application/json",
-                };
-                fetch(postUrl, {
-                    method: "POST",
-                    headers: auth,
-                    body: JSON.stringify(body)
-                })
-                    .then(handler)
-                    .then(response => {
-                        if (response) {
-                            let currentTr = createTrElement(titleFromInput, authorFromInput, isbnFromInput, "toBeSet");
-                            tableBodyElement.appendChild(currentTr);
-                        }
-                    });
-            }
-
-            clearInputFields();
-        }
-
-    }
-
-    function clearInputFields() {
-        titleInputElement.value = '';
-        authorInputElement.value = '';
-        isbnInputElement.value = '';
-
-    }
-
-    function createTrElement(title, author, isbn, id) {
-        let trElement = document.createElement('tr');
-
-        trElement.innerHTML = `
-            <td>${title}</td>
-            <td>${author}</td>
-            <td>${isbn}</td>
-            <td>
-                <button>Edit</button>
-                <button>Delete</button>
-            </td>`;
-
-        trElement.setAttribute('id', id);
-
-        return trElement;
-    }
-
-    function handler(response) {
-        if (response > 400) throw new Error();
-
-        return response.json();
+            .then(loadBooks)
+            .catch(err => console.log(err))
     }
 }
 
-CRUD();
+function loadBooks() {
+    const headers = {
+        credentials: 'include',
+        Authorization: 'Kinvey' + localStorage.getItem('authToken'),
+    };
+
+    fetch(baseUrl, headers)
+        .then(handler)
+        .then((data) => {
+            elements.tBodyBooks.innerHTML = '';
+
+
+            data.forEach(book => {
+                let trNextBook = document.createElement('tr');
+                trNextBook.setAttribute('id', book._id);
+
+                trNextBook.innerHTML = `<td> ${book.title} </td>
+                <td>${book.author}</td>
+                <td>${book.isbn}</td>
+                <td>
+                    <button class="btnEdit" value=${book._id}>Edit</button>
+                    <button class="btnDelete" value=${book._id}>Delete</button>
+                </td>`
+
+
+                trNextBook.querySelector('button.btnEdit')
+                    .addEventListener('click', () => loadEditForm(book._id));
+
+                trNextBook.querySelector('button.btnDelete')
+                    .addEventListener('click', () => deleteBook(book._id));
+
+
+                elements.tBodyBooks.appendChild(trNextBook);
+            });
+        })
+}
+
+
+function loadEditForm(bookId) {
+    let dataToEdit = document.getElementById('')
+}
+
+
+function handler(response) {
+    if (response.status >= 400) {
+        throw new Error(response.status);
+    }
+
+    return response.json();
+}
+
+
+

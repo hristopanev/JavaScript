@@ -6,7 +6,6 @@ function addElement(arr, el) {
 
 addElement(someArray, 5);
 
-
 function firstLast(arr) {
     const first = Number(arr[0]);
     const last = Number(arr[arr.length - 1]);

@@ -51,3 +51,14 @@ function negativPositiv(arr) {
 }
 
 negativPositiv([-2, 17, 0, 8, -9])
+
+
+
+//2 -5 (2, 3, 4, 5)
+function range(start, end) {
+    const length = end - start + 1;
+    
+    return new Array(length)
+}
+
+console.log(range(2,5)); // > [2, 3, 4, 5]

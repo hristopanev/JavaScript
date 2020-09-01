@@ -56,9 +56,12 @@ negativPositiv([-2, 17, 0, 8, -9])
 
 //2 -5 (2, 3, 4, 5)
 function range(start, end) {
-    const length = end - start + 1;
-    
-    return new Array(length)
+    return new Array(end - start + 1).fill(null).map((_, index) => index + start);
 }
 
 console.log(range(2,5)); // > [2, 3, 4, 5]
+
+
+var numrs= [1, 2, 3];
+
+console.log(numrs.reduce((acc, curr) => acc + curr, 0));

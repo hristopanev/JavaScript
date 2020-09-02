@@ -65,3 +65,36 @@ console.log(range(2,5)); // > [2, 3, 4, 5]
 var numrs= [1, 2, 3];
 
 console.log(numrs.reduce((acc, curr) => acc + curr, 0));
+
+
+
+// Constructor Function
+function Person(name, age) {
+    this.name = name;
+    this.getAge = function() {
+        return age;
+    }
+}
+
+const Ivan = new Person('Ivan', 33);
+console.log(Ivan.getAge());
+
+
+// Classes
+class Animal {
+    constructor(type, name) {
+        this.type = type;
+        this.name = name;
+    }
+
+    getType() {
+        return this.type;
+    }
+    getData() {
+        return this.type + ' ' + this.age;
+    }
+}
+
+const cat = new Animal('Cat', 'Max');
+console.log(cat.getType());
+

@@ -17,5 +17,4 @@ function solve() {
     const pargraph = targetAnchor.nextElementSibling;
     pargraph.innerText = `visited ${counters[counterIndex]} times`;
   });
-
 }
